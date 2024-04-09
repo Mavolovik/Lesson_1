@@ -1,0 +1,22 @@
+h1{
+    width: 400px;
+    font-size: 20;
+    line-height: 30px;
+}
+
+h2{
+    width: 400px;
+    font-size: 15px;
+    line-height: 30px;
+}
+h3{
+    width: 400px;
+    font-size: 15px;
+    line-height: 30px;
+}
+.p{
+    width: 400px;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
